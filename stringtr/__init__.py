@@ -1,0 +1,1 @@
+from .stringtr import StringTR
